@@ -3,7 +3,7 @@
 ## Overview
 This project demonstrates the deployment of a **Wazuh Cloud SIEM environment**, enrollment of a **Windows endpoint agent**, and validation of **log collection, alert generation, and File Integrity Monitoring (FIM)**.  
 
-The lab was completed as **Task 5 of the WazuGuardix SOC Internship Program**, focusing on real-world **SOC Analyst (L1)** workflows using a cloud-based SIEM platform.
+The lab is focusing on real-world **SOC Analyst (L1)** workflows using a cloud-based SIEM platform.
 
 ---
 
